@@ -35,10 +35,10 @@ pkg install python && pkg install git && pkg install python-pip
 pip install colorama
 ```
 ```
-git clone https://github.com/Kiel-P/kiel-scan
+git clone https://github.com/ki-blank/scan.git
 ```
 ```
-cd kiel-scan
+cd scan
 ```
 ```
 chmod +x install.sh
